@@ -8,7 +8,7 @@ This repository hosts a Jupyter notebook that provides a comprehensive approach 
 ## Assumptions
 1. Markets function efficiently.
 2. Investors behave rationally, aiming to maximize their utility.
-3. Availability of a risk-free asset, offering a constant return rate (\(r_f\)) for both borrowing and lending.
+3. Availability of a risk-free asset, offering a constant return rate ($r_f$) for both borrowing and lending.
 4. Absence of transaction costs and taxes.
 5. Normal distribution of asset returns, although this is a flexible assumption.
 6. Investment strategy focuses on a single-period horizon.
