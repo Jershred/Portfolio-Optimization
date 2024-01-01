@@ -19,7 +19,7 @@ This repository hosts a Jupyter notebook that provides a comprehensive approach 
 
 ### Risky Portfolio
 For a portfolio with $n$ risky assets, the expected return $E[R_m]$ and risk $σ_m^2$ are given by:
-$$E[R_m] = \sum_{i=1}^{n} w_i E[R_i]$$
+$E[R_m] = \sum_{i=1}^{n} w_i E[R_i]$ \\
 $\sigma_m^2 = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \rho_{ij} \sigma_i \sigma_j$
 
 ### Portfolio Including Risk-Free Asset
