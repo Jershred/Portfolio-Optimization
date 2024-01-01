@@ -18,7 +18,8 @@ This repository hosts a Jupyter notebook that provides a comprehensive approach 
 ## Mathematical Framework
 
 ### Risky Portfolio
-For a portfolio with \(n\) risky assets, the expected return \(E[R_m]\) and risk \(\sigma_m^2\) are given by:
+### Risky Portfolio
+For a portfolio with `n` risky assets, the expected return `E[R_m]` and risk `σ_m^2` are given by:
 \[
 E[R_m] = \sum_{i=1}^{n} w_i E[R_i]
 \]
